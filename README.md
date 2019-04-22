@@ -3,7 +3,8 @@ Face detection using HOG
 
 Compiled version of dlib-19.17.0 for python 3.6 is placed in libraries in case any issues while installing the libraries.
 
-For testing very few dataset of the known personalites is collected and trained.
+For testing very few dataset of the known personalites is collected and trained. Dataset folder names will be used to label the output.
+Untrained faces will be labelled as "unknown".
 
 
 ### REQUIREMENTS
@@ -29,8 +30,7 @@ https://github.com/083chandan/faceDetection_HOG/blob/master/docs/hog.pdf
 
 #### Training with additional dataset
 
-1. Place the dataset to train in dataset folder
-> dataset should be segregated and named accordingly
+1. Place the dataset to train in dataset folder (dataset should be segregated and named accordingly)
 
 2. Run **trainFaces.py** to train with new dataset
 
