@@ -40,3 +40,7 @@ https://github.com/083chandan/faceDetection_HOG/blob/master/docs/hog.pdf
 ### OUTPUT
 
 ![OUTPUT](https://github.com/083chandan/faceDetection_HOG/blob/master/output/Capture.PNG)
+
+
+### REFS
+https://www.learnopencv.com/histogram-of-oriented-gradients/
