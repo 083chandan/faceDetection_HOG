@@ -11,7 +11,7 @@ Untrained faces will be labelled as "unknown".
 
 python 3.6
 
-openCV 4
+openCV 4 (>3.4)
 
 > additional libraries are in requirements.txt
 > Install dlib first and the run requirements.txt
